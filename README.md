@@ -41,3 +41,7 @@ Hint :
 colabs at : https://github.com/eyaltrabelsi/my-notebooks/tree/master/Lectures/search_in_practice-approximate_nearest_neighborsLinks to an external site.
 
 (try to use different data set if possible)
+
+
+Solution 
+The Link to the colab file is -
