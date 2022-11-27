@@ -44,4 +44,5 @@ colabs at : https://github.com/eyaltrabelsi/my-notebooks/tree/master/Lectures/se
 
 
 Solution 
-The Link to the colab file is -
+
+The Link to the colab file is -https://colab.research.google.com/drive/1FGNlODi9THOHOqDGD3GGck1xjzPN3Pd9?usp=share_link
